@@ -1,9 +1,14 @@
 h1 {
   color: #023e8a;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 h2 {
+  color: #023e8a;
+  font-size: 30px;
+}
+
+h4 {
   color: #023e8a;
   font-size: 20px;
 }
@@ -23,11 +28,11 @@ i {
 
 body {
   font-family: 'Roboto Mono', monospace;
-  background-color: #e2eafc;
+  background-color: #F7F9FC;
 }
 
 .card-light-blue {
-  background-color: #edf2fb;
+  background-color: white;
   border-radius: 20px;
   margin: 20px;
   padding: 40px;
